@@ -2,7 +2,7 @@ package section2;
 
 import org.jointheleague.graphical.robot.Robot;
 
-public class Spiral {
+public class THESpiral {
 
 	public static void main(String[] args) {
 		// 1. Create a new Robot

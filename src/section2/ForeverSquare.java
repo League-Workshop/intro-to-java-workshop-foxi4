@@ -3,7 +3,7 @@ package section2;
 import javax.swing.JOptionPane;
 import org.jointheleague.graphical.robot.Robot;
 
-public class FourSquare {
+public class ForeverSquare {
 	
 	// 2. Create a new Robot
 Robot iCu = new Robot("mini");
